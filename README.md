@@ -1,5 +1,5 @@
 # Attendance Tracker
-An attendance tracking app built using **[Flutter]**(www.flutter.dev).
+An attendance tracking app built using **[Flutter](www.flutter.dev)**.
 
 
 ### Features
