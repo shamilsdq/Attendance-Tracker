@@ -12,8 +12,8 @@ An attendance tracking app built using **[Flutter](www.flutter.dev)**.
 
 
 ### Packages
-1. flutter
-2. percent_indicator
-3. path
-4. path_provider
-5. sqflite 
+1. flutter 
+2. [path](https://pub.dev/packages/path)
+3. [path_provider](https://pub.dev/packages/path_provider)
+4. [sqflite](https://pub.dev/packages/sqflite)
+5. [percent_indicator](https://pub.dev/packages/percent_indicator)
