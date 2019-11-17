@@ -1,6 +1,6 @@
 
-Attendance Tracker
-built using flutter.
+# Attendance Tracker
+#### built using **Flutter**.
 
 - 6 hours per day.
 - Opens the app with the current day or the last weekday.
